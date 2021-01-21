@@ -3,6 +3,7 @@
 </head>
 <link rel="stylesheet" href="https://mykaraoke.github.io/MiniKaraoke/style.css">
 <body>
+<script data-ad-client="ca-pub-9729890995281639" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ul>
  <a href="saihteesai.html"><li><span>စိုင်းထီးဆိုင်</span></li></a>
   <li><span>ဗဒင်</span></li>
